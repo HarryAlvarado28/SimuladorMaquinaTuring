@@ -1,0 +1,6 @@
+ababb
+q1, a -> q1, a, R
+q1, b -> q2, a, R
+q2, a -> q2, a, R
+q2, b -> q2, b, R
+q2, B -> q3, B, L
